@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\bin\Debug\db_betamart.accdb
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\bin\Debug\App_BetaMart.exe.config
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\bin\Debug\App_BetaMart.exe
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\bin\Debug\App_BetaMart.pdb
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.Form1.resources
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.exe
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.pdb
+C:\Users\Lenovo\source\repos\App_BetaMart\App_BetaMart\obj\Debug\App_BetaMart.csproj.AssemblyReference.cache
